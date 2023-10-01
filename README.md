@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam raikar</h1>
+<h1 align="center">Hi 👋, I'm Shivam Raikar</h1>
 <h3 align="center">Passionate Developer Igniting Digital Dreams</h3>
 
 - 🌱 I’m currently learning **next.js and material ui**
