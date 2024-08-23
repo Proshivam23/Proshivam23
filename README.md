@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Raikar</h1>
 <h3 align="center">Passionate Developer Igniting Digital Dreams</h3>
 
-- 🌱 I’m currently learning **next.js and material ui**
+- 🌱 I’m currently learning **nest.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
